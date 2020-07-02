@@ -1,0 +1,18 @@
+listen_for_clients_preferred_style: true
+style: light
+
+title: Just a bunch of writeups
+email: writeups@trecherel.com
+description: >- 
+  Yet another site on the internet.
+
+header_pages:
+        - index.md
+        - tags.md
+        - whoami.md
+
+plugins:
+  - jekyll-feed
+
+permalink: /:categories/:name.html
+
