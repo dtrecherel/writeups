@@ -249,11 +249,7 @@ This challenge is pretty easy; the token is written with the color `#FCFCFC` on 
 
 ![HIDDEN.png Solution][Hidden img solution]
 
-
-Here's the secret message:  
-`The token is I_am_Hidden`
-
-Pretty simple!
+The token is now revealed.
 
 ## noise.wav
 ## SECRET.zip
