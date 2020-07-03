@@ -8,7 +8,7 @@ title: /whoami
 I am a computer security enthusiast that hopes to share some hindsights on Cybersecurity and CTF. I live in Paris, France, and do cybersecurity consulting at [Lovell.][] Otherwise I love photography, trekking, and being with my friends. 
 
 ## That website
-I got a bunch of writeups that I have to sort before this website can hope being useful. I will try to cover different topics from stenography to some reverse engineering. I will not showcase *cutting edge* techniques, I will try to cover the basics so hopefully anyone can learn. I will use the tag <a class="tag" href="/tags/shell"><code class="language-plaintext highlighter-rouge">ELI5</code></a> tag (Explain Like I'm 5) for more detailed writeups.
+I got a bunch of writeups that I have to sort before this website can hope being useful. I will try to cover different topics from stenography to some reverse engineering. I will not showcase *cutting edge* techniques, I will try to cover the basics so hopefully anyone can learn. I will use the tag <a class="tag" href="/tags/ELI5"><code class="language-plaintext highlighter-rouge">ELI5</code></a> tag (Explain Like I'm 5) for more detailed writeups.
 
 ## Is that fair?
 I will avoid to share writeups on ongoing CTF. Primarly because I don't do many *live* CTF[^1], but also because that wouldn't be fair to any competitors. Vulnerable VMs as the ones available on the very good [Vulnhub][] are made for people to learn, and I guess it is perfectly fair to offer people an explanation on *how* the exploit works.
